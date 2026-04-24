@@ -8,6 +8,9 @@ movies = []
 current_filter_genre = ""
 current_filter_year = ""
 
+name_author = "Петя"
+
+
 #Тест
 def load_data():
     """Загрузка данных из JSON файла"""
