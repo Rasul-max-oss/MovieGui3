@@ -8,7 +8,7 @@ movies = []
 current_filter_genre = ""
 current_filter_year = ""
 
-name_author = "Петя"
+name_author = "Вася"
 
 
 #Тест
